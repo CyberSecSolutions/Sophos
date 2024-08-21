@@ -58,7 +58,3 @@ In this project, the Sophos XGS 4300 Firewall was successfully implemented, and 
 Note: If resources within the network were heavily used, there might be variations in the metrics. Further analysis may be required for different usage scenarios.
 
 For further information or questions, please contact [Your Name] ([Your Contact]) or visit our [Project Website](URL).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
